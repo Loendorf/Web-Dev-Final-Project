@@ -1,4 +1,7 @@
-java.
+java.   
+  /*> let choices = ["Air", "Devil", "Dragon", "Fire", "Gun", "Human", "Lightning", "Paper", "Rock", "Scissors", "Snake", "Sponge", "Tree", "Water", "Wolf"];
+  > choices.length
+  <~15*/ 
   var computerChoice = Math.random();
         if (computerChoice < 0.0626) {
             computerChoice = "1";
